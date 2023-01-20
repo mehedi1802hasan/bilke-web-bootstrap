@@ -1,0 +1,31 @@
+.nav-text-bike{
+   font-size:35px;
+}
+
+.user-image{
+   width: 50px;
+   height:100px
+}
+.clients-img{
+   width: 50%;
+}
+.icon-img{
+   width: 20px;
+}
+.read-btn-color{
+   color:#E76F51 !important;
+}
+.footer{
+   background-color: black;
+   max-width: 100%;
+   height: auto;
+}
+.footer-img{
+   width: 135px;
+height: 40px;
+}
+.ancore-tag a{
+   color:#FFFFFF;
+   text-decoration: none;
+   margin-right:20px;
+}
